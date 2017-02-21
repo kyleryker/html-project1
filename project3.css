@@ -1,0 +1,45 @@
+.header{
+height: 100px;
+background-color: gray;
+width: 100%;
+}
+.littlebox{
+position: absolute;
+height: 75px;
+width: 7.5%;
+background-color: blue;
+margin-left: 20px;
+margin-top: 12.5px;
+margin-bottom: 12.5px
+}
+.textbox{
+height: 300px;
+width: 100%;
+}
+.text{
+  font-size: 30px;
+  margin: 75px 40px 75px 40px;
+}
+.bluebar{
+height: 100px;
+background-color: blue;
+width: 100%;
+
+}
+.greenbar{
+height: 100px;
+background-color: green;
+width: 100%;
+}
+.nastybar{
+height: 100px;
+background-color: yellowgreen;
+width: 100%;
+
+}
+.yellowbar{
+height: 100px;
+background-color: yellow;
+width: 100%;
+
+}
