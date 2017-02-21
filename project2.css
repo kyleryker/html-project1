@@ -1,0 +1,30 @@
+.col-1{
+background-color: blue;
+height: 100vh;
+width: calc(100%/3);
+float:left;
+}
+.col-2{
+background-color: teal;
+height: 100vh;
+width: calc(100%/3);
+float: left;
+}
+.col-3{
+background-color: lightgreen;
+height: 70vh;
+width: calc(100%/3);
+float:left;
+}
+.imagespot{
+  height: 30vh;
+  width: calc(100%/3);
+  background-color:red;
+  float:left;
+}
+.text{
+  font-size: 40px;
+  margin-left: 50px;
+  margin-top: 80px;
+  color: white;
+}
